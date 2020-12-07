@@ -1,0 +1,2 @@
+select * from customers where postalcode = 1010;
+SELECT phone FROM Suppliers where supplierid = 11;
